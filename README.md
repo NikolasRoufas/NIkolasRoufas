@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nikolas Roufas</h1>
 <h3 align="center">A passionate full stack developer from Greece</h3>
 
-- 🔭 I’m currently working on [Chat App](https://github.com/NikolasRoufas/LiveChatApp)
+- 🔭 I’m currently working on [Fitness App](https://github.com/NikolasRoufas/Fitnessapp)
 
 - 🌱 I’m currently learning **How To Create And Launch APIs**
 
