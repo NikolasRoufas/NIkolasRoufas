@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Chat App](https://github.com/NikolasRoufas/LiveChatApp)
 
-- 🌱 I’m currently learning **Learning PHP**
+- 🌱 I’m currently learning **How To Create And Launch APIs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NikolasRoufas](https://github.com/NikolasRoufas)
 
