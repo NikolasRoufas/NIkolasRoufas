@@ -1,8 +1,7 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Nikolas Roufas</h1>
-<h3 align="center">A passionate full stack developer from Greece</h3>
 
-- 🔭 I’m currently working on [Fitness App](https://github.com/NikolasRoufas/Fitnessapp)
+- 🔭 I’m currently working on [Whitelist.gr](https://whitelist.gr)
 
 - 🌱 I’m currently learning **How To Create And Launch APIs**
 
