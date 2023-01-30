@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Nikolas Roufas</h1>
 
-- 🔭 I’m currently working on [Whitelist.gr](https://whitelist.gr)
+- 🔭 I’m currently working on [Whitelist.gr](whitelist.gr)
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/NikolasRoufas](https://github.com/NikolasRoufas)
