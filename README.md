@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on [Whitelist.gr](https://whitelist.gr)
 
-- 🌱 I’m currently learning **How To Create And Launch APIs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NikolasRoufas](https://github.com/NikolasRoufas)
 
