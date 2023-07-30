@@ -10,9 +10,6 @@ Languages  :  Python, Js, HTML/CSS
 
 ```
 
-```json
-Knowledge is power.
-```
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NikolasRoufas&icon=0&color=0)](https://visitcount.itsvg.in)
