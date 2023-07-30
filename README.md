@@ -4,7 +4,7 @@ print(f'Follow {NikolasRoufas} on Github')
 ```
 
 ```python
-       OS  :  nt10
+       OS  :  kali
    Python  :  python 3.9.13
 Languages  :  Python, Js, HTML/CSS
 
