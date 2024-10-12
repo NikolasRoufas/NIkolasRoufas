@@ -7,6 +7,7 @@ print(f'Follow {NikolasRoufas} on Github')
        OS  :  ubuntu/w10
    Python  :  python 3.9.13
 Languages  :  Python, JS, HTML/CSS
+hopefully a cybersec or a diplomat
 
 ```
 
