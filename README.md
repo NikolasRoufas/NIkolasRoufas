@@ -6,8 +6,9 @@ print(f'Follow {NikolasRoufas} on Github')
 ```python
        OS  :  ubuntu/w10
    Python  :  python 3.9.13
-Languages  :  Python, JS, HTML/CSS
-hopefully a cybersec or a diplomat
+Languages  :  Python, JS, HTML/CSS, C , C++
+a kid with alot of free time
+fndr of acreon
 
 ```
 
