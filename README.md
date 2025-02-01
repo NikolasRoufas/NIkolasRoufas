@@ -1,17 +1,2 @@
-
-```python
-print(f'Follow {NikolasRoufas} on Github')
-```
-
-```python
-       OS  :  macOS/w10
-   Python  :  python 3.9.13
-Languages  :  Python, JS, HTML/CSS, C , C++
-a kid with alot of free time
-fndr of acreon
-
-```
-
-
----
-[![](https://visitcount.itsvg.in/api?id=NikolasRoufas&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
+[![NIkolas Roufas's github stats](https://github-readme-stats.vercel.app/api?username=NIkolasRoufas&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NIkolasRoufas&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
