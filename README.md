@@ -1,7 +1,7 @@
 # 💡 Nikolaos Roufas | AI Researcher & Computer Science Student
 
 🔍 **AI Research | Machine Learning | Deep Learning | NLP | Reinforcement Learning**  
-🎓 **CS Student at Ionian University | Erasmus+ at University of Lisbon**  
+🎓 **CS Student at Ionian University**  
 
 ---
 
