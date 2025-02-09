@@ -20,7 +20,7 @@ Currently working on **Sentiment Analysis, Deep Learning models, and AI research
 ### 1️⃣ **AI Sentiment Analysis Tool**  
 🔹 Built a **sentiment analysis tool** using **VADER & NLP techniques** on 5,000+ social media posts.  
 🔹 Achieved **85% accuracy** and implemented **data visualization with Matplotlib & Seaborn**.  
-🔹 **[🔗 Kaggle Notebook](https://www.kaggle.com/code/nikolaosroufas/syrian-conflict-sentiment-analysis)**  
+🔹 **[🔗 GitHub Repo](https://github.com/NikolasRoufas/Syrian-Conflict-Sentiment-Analysis)** | **[🔗 Kaggle Notebook](https://www.kaggle.com/code/nikolaosroufas/syrian-conflict-sentiment-analysis)**  
 
 ### 2️⃣ **Deep Reinforcement Learning Research** *(Work in Progress 🚀)*  
 🔹 Implementing **Deep Q-Networks (DQN) & PPO** on OpenAI Gym environments.  
