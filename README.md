@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 I am a **Computer Science student** passionate about **Artificial Intelligence, Machine Learning, and NLP**.  
-Currently working on **Sentiment Analysis, Deep Learning models, and AI research** with plans to publish at **top AI conferences (NeurIPS, ICML, ICLR)**.  
+Currently working on **Sentiment Analysis, Deep Learning models, and AI research**.  
 
 🔹 **AI Research Areas:** NLP, Reinforcement Learning, Generative AI  
 🔹 **Technical Skills:** Python (TensorFlow, PyTorch, Scikit-learn, JAX), C++, Data Science  
