@@ -23,9 +23,12 @@ Currently working on **Sentiment Analysis, Deep Learning models, and AI research
 🔹 Achieved **85% accuracy** and implemented **data visualization with Matplotlib & Seaborn**.  
 🔹 **[🔗 GitHub Repo](https://github.com/NikolasRoufas/Syrian-Conflict-Sentiment-Analysis)** | **[🔗 Kaggle Notebook](https://www.kaggle.com/code/nikolaosroufas/syrian-conflict-sentiment-analysis)**  
 
-### 2️⃣ **Deep Reinforcement Learning Research** *(Work in Progress 🚀)*  
-🔹 Implementing **Deep Q-Networks (DQN) & PPO** on OpenAI Gym environments.  
-🔹 Researching **DeepMind RL algorithms** & extending **OpenSpiel frameworks**.  
+### 2️⃣ **AI-Scanner** 
+🔹 CV Analyzer: **AI-Powered Resume Optimization** is a Flask-based web application that leverages OpenAI GPT-4 to analyze CVs against job descriptions and provide tailored improvement suggestions.
+🔹 **[🔗 GitHub Repo](https://github.com/NikolasRoufas/AI-Scanner)**
+
+Resources
+ 
 
 ---
 
