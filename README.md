@@ -25,6 +25,7 @@ Currently working on **Sentiment Analysis, Deep Learning models, and AI research
 
 ### 2️⃣ **AI-Scanner** 
 🔹 CV Analyzer: **AI-Powered Resume Optimization** is a Flask-based web application that leverages OpenAI GPT-4 to analyze CVs against job descriptions and provide tailored improvement suggestions.
+
 🔹 **[🔗 GitHub Repo](https://github.com/NikolasRoufas/AI-Scanner)**
 
 Resources
