@@ -2,7 +2,7 @@
 
 🔍 **AI Research | Machine Learning | Deep Learning | NLP | Reinforcement Learning**  
 🎓 **CS Student at Ionian University**  
-🫠 **Competititve Programming**
+🫠 **Competititve Sleeper**
 
 ---
 
