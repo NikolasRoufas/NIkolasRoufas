@@ -30,7 +30,7 @@ Currently working on **Sentiment Analysis, Deep Learning models, and AI research
 - Integrated **quantum computing principles** to enhance ML performance.  
 - Investigated **hybrid classical-quantum models** for practical applications.  
 
-### 3️⃣ **AI-Powered Sentiment Analysis**  
+### 3️⃣ **Syrian Conflict Sentiment Analysis**  
 📌 **[GitHub Repo](https://github.com/NikolasRoufas/Syrian-Conflict-Sentiment-Analysis)**  
 - Developed a **sentiment analysis model** leveraging NLP techniques on a dataset of **5,000+ social media posts**.  
 - Achieved an **85% accuracy rate** using **VADER, BERT, and feature engineering**.  
