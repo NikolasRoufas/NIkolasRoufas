@@ -18,23 +18,34 @@ Currently working on **Sentiment Analysis, Deep Learning models, and AI research
 
 ## 📂 Featured Projects
 
-### 1️⃣ **AI Sentiment Analysis Tool**  
-🔹 Built a **sentiment analysis tool** using **VADER & NLP techniques** on 5,000+ social media posts.  
-🔹 Achieved **85% accuracy** and implemented **data visualization with Matplotlib & Seaborn**.  
-🔹 **[🔗 GitHub Repo](https://github.com/NikolasRoufas/Syrian-Conflict-Sentiment-Analysis)** | **[🔗 Kaggle Notebook](https://www.kaggle.com/code/nikolaosroufas/syrian-conflict-sentiment-analysis)**  
+### 1️⃣ **Financial LLM Forecaster**  
+📌 **[GitHub Repo](https://github.com/NikolasRoufas/financial-llm-forecaster)**  
+- Developed a **financial forecasting model** leveraging **Large Language Models (LLMs)**.  
+- Predicts **market trends and stock movements** using **AI-driven analysis**.  
+- Implements **data-driven strategies** for financial insights.  
 
-### 2️⃣ **AI-Scanner** 
-🔹 CV Analyzer: **AI-Powered Resume Optimization** is a Flask-based web application that leverages OpenAI GPT-4 to analyze CVs against job descriptions and provide tailored improvement suggestions.
-🔹 **[🔗 GitHub Repo](https://github.com/NikolasRoufas/AI-Scanner)**
+### 2️⃣ **Quantum ML System**  
+📌 **[GitHub Repo](https://github.com/NikolasRoufas/quantum-ml-system)**  
+- Explored **Quantum Machine Learning (QML)** for AI-driven optimizations.  
+- Integrated **quantum computing principles** to enhance ML performance.  
+- Investigated **hybrid classical-quantum models** for practical applications.  
 
-Resources
- 
+### 3️⃣ **AI-Powered Sentiment Analysis**  
+📌 **[GitHub Repo](https://github.com/NikolasRoufas/Syrian-Conflict-Sentiment-Analysis)**  
+- Developed a **sentiment analysis model** leveraging NLP techniques on a dataset of **5,000+ social media posts**.  
+- Achieved an **85% accuracy rate** using **VADER, BERT, and feature engineering**.  
+- Implemented advanced data visualization with **Matplotlib & Seaborn**.  
+
+### 4️⃣ **AI-Scanner: Intelligent Resume Optimization**  
+📌 **[GitHub Repo](https://github.com/NikolasRoufas/AI-Scanner)**  
+- Developed an AI-powered **resume analysis tool** using **GPT-4 and Flask**.  
+- Enables **job fit analysis** by comparing a CV against job descriptions and suggesting improvements.  
 
 ---
+ 
 
 ## 📢 AI Research & Publications
-🔹 **Exploring Reinforcement Learning for AI Strategy Optimization**  
-🔹 **Open-Source AI Contributions to NLP & Deep RL**  
+🔹 **Analyzing Public Discourse and Sentiment in Conflict-Related Social Media Discussions with Transformer-Based Models**, (AIAI ,2025) .
 
 > Want to **collaborate on AI research or open-source projects?** Reach out!  
 
