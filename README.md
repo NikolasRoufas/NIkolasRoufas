@@ -45,7 +45,7 @@ Currently working on **Sentiment Analysis, Deep Learning models, and AI research
  
 
 ## 📢 AI Research & Publications
-🔹 **Analyzing Public Discourse and Sentiment in Conflict-Related Social Media Discussions with Transformer-Based Models**,<br>
+🔹 **Analyzing Public Discourse and Sentiment in Climate Change Discussions Using Transformer-Based Models**,<br>
 (AIAI, 2025). 📌 **[Link](https://nikolaosroufas.me/#publications)**
 
 > Want to **collaborate on AI research or open-source projects?** Reach out!  
