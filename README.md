@@ -16,7 +16,7 @@ I'm a **first-year Computer Science student** passionate about **Deep Learning**
 
 ## 📜 Published Research Papers
 1. **Analyzing public discourse and sentiment in climate change discussions using transformer-based models**: 
-   - **Link**: [Journal Link)[https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7fCD268AAAAJ&authuser=1&citation_for_view=7fCD268AAAAJ:u5HHmVD_uO8C]
+   - **Link**: (Journal Link)[https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7fCD268AAAAJ&authuser=1&citation_for_view=7fCD268AAAAJ:u5HHmVD_uO8C]
 
 ## 🛠️ Projects 
 
