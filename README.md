@@ -52,7 +52,7 @@ I'm a **first-year Computer Science student** passionate about **Deep Learning**
 - **Self-Supervised Learning**: Implementing state-of-the-art SSL models for NLP.
 
 ## 📑 Research & Technical Blogs
-- [Medium](https://medium.com/@nikolaosroufas/climatebert-netzero-notes-829fbb039334)
+- [Medium](https://medium.com/@nikolaosroufas/)
 
 ## 🔧 Tools & Technologies I Use
 - **Languages**: Python, C++, JavaScript
