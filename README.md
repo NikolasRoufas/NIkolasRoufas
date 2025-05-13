@@ -3,7 +3,7 @@
 I'm a **first-year Computer Science student** passionate about **Deep Learning**, **NLP**, and **AI research**. With 1 published research paper, I’m deeply involved in applying cutting-edge machine learning techniques to real-world problems. My goal is to pursue a **PhD at ETH Zurich** and later work as a **Researcher at DeepMind**.
 
 - 🌱 **Currently learning**: Advanced NLP, Deep Learning, Vision Transformers, Time Series Modeling
-- 🎓 **University**: [Ionian University] (4-year program)
+- 🎓 **University**: Ionian University (4-year program)
 - 💼 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/nikolaosroufas/)
 - 🧑‍💻 **GitHub**: [NikolasRoufas](https://github.com/NikolasRoufas)
 - 📄 **Research**: [Scholar Profile](https://scholar.google.com/citations?user=7fCD268AAAAJ&hl=en&authuser=1) 
