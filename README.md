@@ -15,9 +15,8 @@ I'm a **first-year Computer Science student** passionate about **Deep Learning**
 - **Reinforcement Learning**: Multi-agent systems, Optimization techniques
 
 ## 📜 Published Research Papers
-1. **[Analyzing public discourse and sentiment in climate change discussions using transformer-based models
-]**: 
-   - **Link**: [Journal Link]([#](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7fCD268AAAAJ&authuser=1&citation_for_view=7fCD268AAAAJ:u5HHmVD_uO8C))
+1. **Analyzing public discourse and sentiment in climate change discussions using transformer-based models**: 
+   - **Link**: [Journal Link)[https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7fCD268AAAAJ&authuser=1&citation_for_view=7fCD268AAAAJ:u5HHmVD_uO8C]
 
 ## 🛠️ Projects 
 
