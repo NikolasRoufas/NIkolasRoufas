@@ -1,65 +1,84 @@
-# Hi, I'm Nikolas! 👋
+# 👋 Hi, I'm Nikolaos Roufas
 
-I'm a **Second-year Computer Science student** passionate about **Deep Learning**, **NLP**, and **AI research**. With 1 published research paper, I’m deeply involved in applying cutting-edge machine learning techniques to real-world problems. My goal is to pursue a **PhD at ETH Zurich** and later work as a **Researcher at DeepMind**.
+🎓 **Undergraduate Computer Science Student** at the [Ionian University, Department of Informatics](https://di.ionio.gr), ranked among the **top 3%** of my cohort in AI- and programming-oriented modules.  
+📍 Currently on an **Erasmus+ exchange** at **Sapienza University of Rome**, focusing on *Artificial Intelligence*, *Machine Learning*, and *Data Science*.
 
-- 🌱 **Currently learning**: Advanced NLP, Deep Learning, Vision Transformers, Time Series Modeling
-- 🎓 **University**: Ionian University (4-year program)
-- 💼 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/nikolaosroufas/)
-- 🧑‍💻 **GitHub**: [NikolasRoufas](https://github.com/NikolasRoufas)
-- 📄 **Research**: [Scholar Profile](https://scholar.google.com/citations?user=7fCD268AAAAJ&hl=en&authuser=1) 
+---
 
 ## 🧠 Research Interests
-- **Deep Learning**: Transformers, Attention Mechanisms, Self-Supervised Learning
-- **Natural Language Processing**: Text Generation, Language Modeling, Document Analysis
-- **Computer Vision**: Object Detection, Image Classification, GANs
-- **Reinforcement Learning**: Multi-agent systems, Optimization techniques
 
-## 📜 Published Research Papers
-1. **Analyzing public discourse and sentiment in climate change discussions using transformer-based models**: 
-   - **Link**: [Journal Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7fCD268AAAAJ&authuser=1&citation_for_view=7fCD268AAAAJ:u5HHmVD_uO8C)
+I explore the intersection of **Neural Networks**, **Machine Learning**, and **Explainable AI (XAI)** — with a central goal of making deep models **transparent**, **modular**, and **interpretable**.
 
-## 🛠️ Projects 
+My work revolves around:
+- 🗣️ **Explainable NLP** — transformer-based models for analyzing social and climate discourse  
+- ⚖️ **Legal AI** — GDPR-compliant text anonymization and domain-adapted transformers for legal NER  
+- 📚 **Scientific Text Understanding** — extracting structured knowledge and semantic relationships from large-scale text corpora  
+- 🔍 **Neural Interpretability** — studying layer-wise information decomposition and self-explainable neural networks (SENN)
 
+I aim to bridge the gap between **performance and transparency** in modern AI systems, designing architectures that are both powerful and explainable.
 
-### 1️⃣ **Financial LLM Forecaster**  
-📌 **[GitHub Repo](https://github.com/NikolasRoufas/financial-llm-forecaster)**  
-- Developed a **financial forecasting model** leveraging **Large Language Models (LLMs)**.  
-- Predicts **market trends and stock movements** using **AI-driven analysis**.  
-- Implements **data-driven strategies** for financial insights.  
+---
 
-### 2️⃣ **Quantum ML System**  
-📌 **[GitHub Repo](https://github.com/NikolasRoufas/quantum-ml-system)**  
-- Explored **Quantum Machine Learning (QML)** for AI-driven optimizations.  
-- Integrated **quantum computing principles** to enhance ML performance.  
-- Investigated **hybrid classical-quantum models** for practical applications.  
+## 📄 Publications
 
-### 3️⃣ **Syrian Conflict Sentiment Analysis**  
-📌 **[GitHub Repo](https://github.com/NikolasRoufas/Syrian-Conflict-Sentiment-Analysis)**  
-- Developed a **sentiment analysis model** leveraging NLP techniques on a dataset of **5,000+ social media posts**.  
-- Achieved an **85% accuracy rate** using **VADER, BERT, and feature engineering**.  
-- Implemented advanced data visualization with **Matplotlib & Seaborn**.  
+### 2025
+- **Analyzing Public Discourse and Sentiment in Climate Change Discussions Using Transformer-Based Models**  
+  *N. Roufas, A. Mohasseb, I. Karamitsos & A. Kanavos*  
+  _IFIP AIAI 2025_ — [Springer Link](https://link.springer.com/chapter/10.1007/978-3-031-97313-0_4)
 
-### 4️⃣ **AI-Scanner: Intelligent Resume Optimization**  
-📌 **[GitHub Repo](https://github.com/NikolasRoufas/AI-Scanner)**  
-- Developed an AI-powered **resume analysis tool** using **GPT-4 and Flask**.  
-- Enables **job fit analysis** by comparing a CV against job descriptions and suggesting improvements.  
+- **LegNER: A Domain-Adapted Transformer for Legal Named Entity Recognition and Text Anonymization**  
+  *N. Roufas, I. Karamitsos, K. Al-Hussaeni & A. Kanavos*  
+  _Frontiers in Artificial Intelligence, 2025_ — In Press
 
+- **Efficient Protein Folding with Transformer Models Using the Performer Architecture**  
+  *N. Roufas, I. Karamitsos, K. Al-Hussaeni, V. C. Gerogiannis & A. Kanavos*  
+  _ICTA 2025_ — In Press
 
+- **Do Deeper Layers Explain Better? An LID-Based Study of Transformer Explainability**  
+  *N. Roufas, A. Kanavos, I. Karamitsos, K. Al-Hussaeni & M. Maragoudakis*  
+  _IEEE AdHD Big Data Workshop 2025_ — In Press
 
-## 🚀 Future Projects
-- [Paper Reproductions](#): Reproducing key SOTA papers from NeurIPS/ICLR.
-- **Generative Models**: Exploring GANs for image synthesis.
-- **Self-Supervised Learning**: Implementing state-of-the-art SSL models for NLP.
+---
 
-## 📑 Research & Technical Blogs
-- [Medium](https://medium.com/@nikolaosroufas/)
+## 🧩 Skills & Tools
 
-## 🔧 Tools & Technologies I Use
-- **Languages**: Python, C++, JavaScript
-- **Libraries**: PyTorch, TensorFlow, Keras, Scikit-learn, Hugging Face, OpenCV
-- **Tools**: Git, Docker, Jupyter Notebooks, LaTeX, VS Code, Google Colab
+**Programming:** Python, C++, SQL, Bash, JavaScript, PHP  
+**ML & AI Frameworks:** PyTorch, TensorFlow, scikit-learn, Keras, NLTK, Hugging Face Transformers  
+**Backend & Data:** Flask, RESTful APIs, MySQL, PostgreSQL  
+**DevOps & Tools:** Docker, Kubernetes, Git, GitLab CI/CD, Linux HPC Systems  
+**Mathematics & Scientific Computing:** Linear Algebra, Probability, Statistics, Optimization  
+**Visualization:** Matplotlib, Seaborn, Plotly, Tableau, Power BI
 
-## 🤝 Let's Connect!
-- LinkedIn: [LinkedIn Link](https://www.linkedin.com/in/nikolaosroufas/)
-- Email: [nikolasroufas@gmai.com]
+---
 
+## 🧩 Ongoing Work
+
+- Developing **Self-Explainable Neural Networks (SENN)** for interpretable AI  
+- Researching **transparency metrics** and **feature attribution methods** for large-scale neural architectures  
+- Building **reproducible ML pipelines** with a focus on open-source collaboration
+
+---
+
+## 🏅 Highlights
+
+- 🧩 Co-authored peer-reviewed research published in *Springer*, *Frontiers in AI*, and *IEEE*  
+- 🎤 Presented at the **AIAI 2025 Conference**, becoming one of the youngest Greek researchers to do so  
+- 🥇 Awarded for **Academic Excellence (2024)** and **Innovation in Robotics (WRO Hellas 2017)**  
+
+---
+
+## 📫 Contact
+
+[![Email](https://img.shields.io/badge/Email-nikolaosroufas%40gmail.com-red?style=flat-square&logo=gmail)](mailto:nikolaosroufas@gmail.com)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Nikolaos%20Roufas-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=7fCD268AAAAJ)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nikolaosroufas-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/nikolaosroufas)
+[![Website](https://img.shields.io/badge/Website-nikolaosroufas.me-0A0A0A?style=flat-square&logo=firefox)](https://nikolaosroufas.me)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--6139--743X-brightgreen?style=flat-square&logo=orcid)](https://orcid.org/0009-0005-6139-743X)
+[![GitHub](https://img.shields.io/badge/GitHub-NikolasRoufas-181717?style=flat-square&logo=github)](https://github.com/NikolasRoufas)
+
+---
+
+### _“Building intelligent systems that are powerful, interpretable, and trustworthy.”_
+
+_Last updated: October 2025_
