@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nikolaos Roufas
 
-🎓 **Undergraduate Computer Science Student** at the [Ionian University, Department of Informatics](https://di.ionio.gr), ranked among the **top 3%** of my cohort in AI- and programming-oriented modules.  
-📍 Currently on an **Erasmus+ exchange** at **Sapienza University of Rome**, focusing on *Artificial Intelligence*, *Machine Learning*, and *Data Science*.
+🎓 **Undergraduate Computer Science Student** at the [Ionian University, Department of Informatics](https://di.ionio.gr), ranked among the **top 3% of my year** based on academic performance in AI- and programming-focused courses.  
+📍 Currently on an **Erasmus+ exchange** at **Sapienza University of Rome**, studying *Artificial Intelligence*, *Machine Learning*, and *Data Science* while conducting research on **Self-Explainable Neural Networks (SENN)**.
 
 ---
 
@@ -9,13 +9,13 @@
 
 I explore the intersection of **Neural Networks**, **Machine Learning**, and **Explainable AI (XAI)** — with a central goal of making deep models **transparent**, **modular**, and **interpretable**.
 
-My work revolves around:
+My work focuses on:
 - 🗣️ **Explainable NLP** — transformer-based models for analyzing social and climate discourse  
 - ⚖️ **Legal AI** — GDPR-compliant text anonymization and domain-adapted transformers for legal NER  
 - 📚 **Scientific Text Understanding** — extracting structured knowledge and semantic relationships from large-scale text corpora  
 - 🔍 **Neural Interpretability** — studying layer-wise information decomposition and self-explainable neural networks (SENN)
 
-I aim to bridge the gap between **performance and transparency** in modern AI systems, designing architectures that are both powerful and explainable.
+I aim to bridge the gap between **performance and transparency** in modern AI systems, designing architectures that are both powerful and interpretable.
 
 ---
 
@@ -51,28 +51,28 @@ I aim to bridge the gap between **performance and transparency** in modern AI sy
 
 ---
 
-## 🧩 Ongoing Work
+## 🚀 Ongoing Work
 
 - Developing **Self-Explainable Neural Networks (SENN)** for interpretable AI  
-- Researching **transparency metrics** and **feature attribution methods** for large-scale neural architectures  
+- Evaluating **transparency metrics** and **feature attribution methods** for large-scale neural architectures  
 - Building **reproducible ML pipelines** with a focus on open-source collaboration
 
 ---
 
 ## 🏅 Highlights
 
-- 🧩 Co-authored peer-reviewed research published in *Springer*, *Frontiers in AI*, and *IEEE*  
-- 🎤 Presented at the **AIAI 2025 Conference**, becoming one of the youngest Greek researchers to do so  
-- 🥇 Awarded for **Academic Excellence (2024)** and **Innovation in Robotics (WRO Hellas 2017)**  
+- 🧩 Ranked in the **top 3%** of my year at Ionian University  
+- 📚 Co-authored peer-reviewed papers in *Springer*, *Frontiers in AI*, and *IEEE*  
+- 🎤 Presented at **AIAI 2025**, becoming one of the youngest Greek researchers to do so  
+- 🥇 Recipient of the **Academic Excellence Award (2024)** and **WRO Hellas Creativity Award (2017)**  
 
 ---
 
-## 📫 Contact
+## 📫 Contact & Profiles
 
 [![Email](https://img.shields.io/badge/Email-nikolaosroufas%40gmail.com-red?style=flat-square&logo=gmail)](mailto:nikolaosroufas@gmail.com)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Nikolaos%20Roufas-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=7fCD268AAAAJ)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nikolaosroufas-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/nikolaosroufas)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Nikolaos%20Roufas-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=7fCD268AAAAJ)
 [![Website](https://img.shields.io/badge/Website-nikolaosroufas.me-0A0A0A?style=flat-square&logo=firefox)](https://nikolaosroufas.me)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--6139--743X-brightgreen?style=flat-square&logo=orcid)](https://orcid.org/0009-0005-6139-743X)
 [![GitHub](https://img.shields.io/badge/GitHub-NikolasRoufas-181717?style=flat-square&logo=github)](https://github.com/NikolasRoufas)
