@@ -10,7 +10,7 @@
 I explore the intersection of **Neural Networks**, **Machine Learning**, and **Explainable AI (XAI)** — with a central goal of making deep models **transparent**, **modular**, and **interpretable**.
 
 My work focuses on:
-- 🗣️ **Explainable NLP** — transformer-based models for analyzing social and climate discourse  
+- 🗣️ **Explainable NLP** — transformer-based models
 - ⚖️ **Legal AI** — GDPR-compliant text anonymization and domain-adapted transformers for legal NER  
 - 📚 **Scientific Text Understanding** — extracting structured knowledge and semantic relationships from large-scale text corpora  
 - 🔍 **Neural Interpretability** — studying layer-wise information decomposition and self-explainable neural networks (SENN)
