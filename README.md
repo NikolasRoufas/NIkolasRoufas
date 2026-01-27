@@ -8,7 +8,7 @@
 
 - **LegNER: A Domain-Adapted Transformer for Legal Named Entity Recognition and Text Anonymization**  
   *N. Roufas, I. Karamitsos, K. Al-Hussaeni & A. Kanavos*  
-  _Frontiers in Artificial Intelligence, 2025_ — In Press
+  _Frontiers in Artificial Intelligence, 2025_ — [Frontiers Link](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1638971/full)
 
 - **Efficient Protein Folding with Transformer Models Using the Performer Architecture**  
   *N. Roufas, I. Karamitsos, K. Al-Hussaeni, V. C. Gerogiannis & A. Kanavos*  
