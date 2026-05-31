@@ -12,7 +12,7 @@
 
 - **Efficient Protein Folding with Transformer Models Using the Performer Architecture**  
   *N. Roufas, I. Karamitsos, K. Al-Hussaeni, V. C. Gerogiannis & A. Kanavos*  
-  _ICTA 2025_ — In Press
+  _ICTA 2025_ — [Springer Link](https://link.springer.com/chapter/10.1007/978-3-032-18162-6_20)
 
 - **Do Deeper Layers Explain Better? An LID-Based Study of Transformer Explainability**  
   *N. Roufas, A. Kanavos, I. Karamitsos, K. Al-Hussaeni & M. Maragoudakis*  
