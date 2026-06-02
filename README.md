@@ -1,6 +1,8 @@
 
 ## 📄 Publications
 
+### 2026
+
 ### 2025
 - **Analyzing Public Discourse and Sentiment in Climate Change Discussions Using Transformer-Based Models**  
   *N. Roufas, A. Mohasseb, I. Karamitsos & A. Kanavos*  
