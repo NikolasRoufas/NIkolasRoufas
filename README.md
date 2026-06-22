@@ -6,19 +6,19 @@
 ### 2025
 - **Analyzing Public Discourse and Sentiment in Climate Change Discussions Using Transformer-Based Models**  
   *N. Roufas, A. Mohasseb, I. Karamitsos & A. Kanavos*  
-  _IFIP AIAI 2025_ — [Springer Link](https://link.springer.com/chapter/10.1007/978-3-031-97313-0_4)
+  _IFIP AIAI 2025_ — [Springer Link](https://link.springer.com/chapter/10.1007/978-3-031-97313-0_4) - Ranking **B**
 
 - **LegNER: A Domain-Adapted Transformer for Legal Named Entity Recognition and Text Anonymization**  
   *N. Roufas, I. Karamitsos, K. Al-Hussaeni & A. Kanavos*  
-  _Frontiers in Artificial Intelligence, 2025_ — [Frontiers Link](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1638971/full)
+  _Frontiers in Artificial Intelligence, 2025_ — [Frontiers Link](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1638971/full)  - Ranking **Q1**
 
 - **Efficient Protein Folding with Transformer Models Using the Performer Architecture**  
   *N. Roufas, I. Karamitsos, K. Al-Hussaeni, V. C. Gerogiannis & A. Kanavos*  
-  _ICTA 2025_ — [Springer Link](https://link.springer.com/chapter/10.1007/978-3-032-18162-6_20)
+  _ICTA 2025_ — [Springer Link](https://link.springer.com/chapter/10.1007/978-3-032-18162-6_20)  - Ranking **C**
 
 - **Do Deeper Layers Explain Better? An LID-Based Study of Transformer Explainability**  
   *N. Roufas, A. Kanavos, I. Karamitsos, K. Al-Hussaeni & M. Maragoudakis*  
-  _IEEE AdHD Big Data Workshop 2025_ — [IEEE](https://ieeexplore.ieee.org/abstract/document/11402387)
+  _IEEE AdHD Big Data 2025_ — [IEEE](https://ieeexplore.ieee.org/abstract/document/11402387) - Ranking **A**
 
 ---
 
