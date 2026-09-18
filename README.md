@@ -2,6 +2,13 @@
 ## 📄 Publications
 
 ### 2026
+- **Self-Explaining Transformer Architectures for Legal Document Classification**  
+  *N. Roufas, M. Marinacci, A. Kanavos & M. Mecella*  
+  _Discover Artificial Intelligence, Springer Nature_ — Under review
+
+- **Expressivity, Trainability, and Gradient Scaling in Variational Quantum Classifiers**  
+  *I. Karamitsos, N. Roufas & A. Kanavos*  
+  _Discover Computing, Springer Nature_ — Under review
 
 ### 2025
 - **Analyzing Public Discourse and Sentiment in Climate Change Discussions Using Transformer-Based Models**  
