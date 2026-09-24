@@ -25,7 +25,7 @@
 
 - **Do Deeper Layers Explain Better? An LID-Based Study of Transformer Explainability**  
   *N. Roufas, A. Kanavos, I. Karamitsos, K. Al-Hussaeni & M. Maragoudakis*  
-  _IEEE AdHD Big Data 2025_ — [IEEE](https://ieeexplore.ieee.org/abstract/document/11402387) - [Code](https://github.com/NikolasRoufas/Deeper-Layers-Explain-Better) - Ranking **A** 
+  _IEEE AdHD Big Data 2025_ — [IEEE Link](https://ieeexplore.ieee.org/abstract/document/11402387) - [Code](https://github.com/NikolasRoufas/Deeper-Layers-Explain-Better) - Ranking **A** 
 
 ---
 
