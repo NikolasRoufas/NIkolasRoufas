@@ -4,11 +4,11 @@
 ### 2026
 - **Self-Explaining Transformer Architectures for Legal Document Classification**  
   *N. Roufas, M. Marinacci, A. Kanavos & M. Mecella*  
-  _Discover Artificial Intelligence, Springer Nature_ — Under review — [Code](https://github.com/NikolasRoufas/LegalSENN)
+  _Discover Artificial Intelligence, Springer Nature_ — Under review — [Code](https://github.com/NikolasRoufas/LegalSENN) - Ranking **Q1**
 
 - **Expressivity, Trainability, and Gradient Scaling in Variational Quantum Classifiers**  
   *I. Karamitsos, N. Roufas & A. Kanavos*  
-  _Discover Computing, Springer Nature_ — Under review — [Code](https://github.com/NikolasRoufas/quantumML)
+  _Discover Computing, Springer Nature_ — Under review — [Code](https://github.com/NikolasRoufas/quantumML) - Ranking **Q1**
 
 ### 2025
 - **Analyzing Public Discourse and Sentiment in Climate Change Discussions Using Transformer-Based Models**  
@@ -25,7 +25,7 @@
 
 - **Do Deeper Layers Explain Better? An LID-Based Study of Transformer Explainability**  
   *N. Roufas, A. Kanavos, I. Karamitsos, K. Al-Hussaeni & M. Maragoudakis*  
-  _IEEE AdHD Big Data 2025_ — [IEEE](https://ieeexplore.ieee.org/abstract/document/11402387) - Ranking **A**
+  _IEEE AdHD Big Data 2025_ — [IEEE](https://ieeexplore.ieee.org/abstract/document/11402387) - Ranking **A** - [Code](https://github.com/NikolasRoufas/Deeper-Layers-Explain-Better)
 
 ---
 
