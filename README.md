@@ -1,5 +1,5 @@
 ## Welcome
-[[Publications List]](#publications) &nbsp;   [[Academic CV\]](https://nikolaosroufas.me/NikolaosRoufas_CV.pdf)
+[Publications List](#publications) &nbsp;   [Academic CV\](https://nikolaosroufas.me/NikolaosRoufas_CV.pdf)
 
 ---
 
